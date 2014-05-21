@@ -6,6 +6,6 @@ public class TestTravis {
 
 	@Test
 	public void test(){
-		new Travisdemo();
+		Travisdemo.sayHi();
 	}
 }
