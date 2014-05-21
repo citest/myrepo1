@@ -1,6 +1,6 @@
 package testTravis;
 
-public class TestTravis {
+public class Travisdemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
